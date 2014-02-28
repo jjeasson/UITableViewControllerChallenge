@@ -1,5 +1,5 @@
 //
-//  JJEViewController.h
+//  JJETableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Joseph J Easson on 28/02/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface JJEViewController : UIViewController
+@interface JJETableViewController : UITableViewController
 
 @end
